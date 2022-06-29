@@ -1,2 +1,2 @@
 # auto_tests_course 
-# DESCRIPTION
+# COURSE DESCRIPTION: good course
